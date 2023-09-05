@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Assesment18_SQLQuery18_Fiddler18.props" />
+</Project>
